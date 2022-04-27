@@ -6,3 +6,5 @@ from my student bedroom.
 
 I developed a Graphic Engine called Creative Engine using DirectX12 and C++17.
 I also have certifications in AWS and Microsoft Azure.
+Anything geeky and technical is my bag, I'm looking for full time software development opportunties, and I'm passionate about working with C++ and anything super complicated I can get myself stuck into.
+
