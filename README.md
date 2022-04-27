@@ -5,7 +5,7 @@ I specialised in Unreal Engine, C++ and DirectX12 throughout my time at universi
 
 I've also worked on several indie style games in unity, though my main area of interest is anything AAA. I run a small freelance programming company from my student bedroom working with Unreal Engine.
 
-I developed a Graphic Engine called Creative Engine using DirectX12, HLSL Shader Model 6.2 and C++17.
+I developed a Graphic Engine called Creative Engine using DirectX12, HLSL Shader Model 6.2 and C++17, it was developed using Azure DevOps with bespoke CI/CD pipelines.
 
 I also have certifications in AWS and Microsoft Azure.
 
