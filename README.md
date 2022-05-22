@@ -11,7 +11,7 @@ I also have certifications in AWS and Microsoft Azure, and I'm learning Rust in 
 
 
 
-Anything geeky and technical is my bag, I'm looking for full time software development opportunties, and I'm passionate about working with C++ and anything super complicated I can get myself stuck into, as well as Unreal Engine.
+Anything geeky and technical is my bag, I'm looking for full time software development opportunties, and I'm passionate about working with C++, DevOps and anything super complicated I can get myself stuck into, as well as Unreal Engine.
 
 
 
