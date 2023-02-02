@@ -5,7 +5,7 @@ My Name is Morgan, I'm a Graduate Simulation Specialist in Computer Graphics, C+
 I spearhead the IRAD (Internal Research and Development) projects at Lockheed Martin UK in AWS, Azure and Unreal Engine as well as Virtual Reality. I'm responsible for inducting apprentices and interns. And Possess UK Security Clearance as I work extensively with MOD Partners.
 
 I've been programming since I was 16, C++ was my first language over time I've been a stickler for stick with one thing and do it well. I do love branching out into
-other languages
+other languages:
   -     Rust
   -     C#
   -     Java
