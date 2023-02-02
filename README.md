@@ -6,10 +6,14 @@ I spearhead the IRAD (Internal Research and Development) projects at Lockheed Ma
 
 I've been programming since I was 16, C++ was my first language over time I've been a stickler for stick with one thing and do it well. I do love branching out into
 other languages:
-  -     Rust
-  -     C#
-  -     Java
-  -     Python
+- C
+- Java
+- Rust
+- C#
+- Python
+
+But C++ as well as it's APIs such as OpenVR & XR (As my role covers extensive VR Utilization) DirectX12, DirectX11 (As at heart I'm a stickler for Cyberpunk!) is my main 'Weapon of Choice' as it were.
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MorganRuffell&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
