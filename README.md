@@ -10,7 +10,7 @@ other languages:
 - C#
 - Python
 
-I'm a very big fan of DevSecOps, and I'm trying to develop that throughout Lockheed Martin.
+I'm a very big fan of DevSecOps, and I'm trying to develop that throughout Lockheed Martin. I have experience with CI/CD, AWS Developer Tools including AWS CodeStar, and CodeCommit. As well as Azure Pipelines, Repos, Artifacts and Pipelines inside of Azure DevOps.
 
 But C++ as well as it's APIs such as OpenVR & XR (As my role covers extensive VR Utilization) DirectX12, DirectX11 (As at heart I'm a stickler for Cyberpunk!) is my main 'Weapon of Choice' as it were.
 As a young person I was obsesseed with Games Engines and Games Technology, as a 22 year old I love Flight Simulators, C++ and anything I can learn how to make work.
