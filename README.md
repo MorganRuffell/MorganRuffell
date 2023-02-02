@@ -10,8 +10,10 @@ other languages:
 - C#
 - Python
 
+I'm a very big fan of DevSecOps, and I'm trying to develop that throughout Lockheed Martin.
+
 But C++ as well as it's APIs such as OpenVR & XR (As my role covers extensive VR Utilization) DirectX12, DirectX11 (As at heart I'm a stickler for Cyberpunk!) is my main 'Weapon of Choice' as it were.
-As a young person I was obsesseed with Games Engines and Games Technology.
+As a young person I was obsesseed with Games Engines and Games Technology, as a 22 year old I love Flight Simulators, C++ and anything I can learn how to make work.
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MorganRuffell&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
